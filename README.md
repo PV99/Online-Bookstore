@@ -8,6 +8,7 @@ are managed through a model view controller framework and express. Three differe
 they store and handle data: 1. Data handled through MySql and Sequelize 2. Data handled through MongoDB. 3. Data handled through 
 Mongoose and MongoDB.
 
+(Note, project logic may become stale over time) 
 To run, download Node JS (https://nodejs.org/en/download/). The download should include a download for npm - a node js package manager.
 After having downloaded these, git clone this application's repo and run npm install in command line while in the root directory of the 
 application. Finally, run npm start and open up http://localhost:3000/ in a tab on the browser of your choice!
