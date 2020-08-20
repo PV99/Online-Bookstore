@@ -1,4 +1,7 @@
 # Online-Bookstore
+
+![Demo](https://media.giphy.com/media/YkhjgTf2eNGdNisWLb/giphy.gif)
+
 An online bookstore that facilitates product posting and editing as well as adding products to cart, ordering products, and 
 reviewing orders. Uses ejs, html, and css for server side rendering. Backend logic, including dynamic routing and crud operations 
 are managed through a model view controller framework and express. Three different versions of the application exist, varying in how 
