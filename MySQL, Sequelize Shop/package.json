@@ -17,7 +17,7 @@
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
-    "express-handlebars": "^3.0.0",
+    "express-handlebars": "^5.3.1",
     "mysql2": "^1.6.5",
     "pug": "^2.0.3",
     "sequelize": "^5.9.4"
